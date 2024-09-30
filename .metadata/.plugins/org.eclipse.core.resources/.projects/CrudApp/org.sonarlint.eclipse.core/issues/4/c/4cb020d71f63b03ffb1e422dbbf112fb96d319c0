@@ -1,0 +1,25 @@
+
+²
+java:S1130,"wRemove the declaration of thrown exception 'javax.servlet.ServletException', as it cannot be thrown from method's body.8°×Œ”›2b ad55d43046ca3f4604269a0cc9efae10h
+‹
+java:S1128"PRemove this unused import 'org.springframework.web.bind.annotation.RequestBody'.8°×Œ”›2b 56f405ddb5bc363f3774807aeb136e18h
+
+java:S1192="FDefine a constant instead of duplicating this literal "empId" 3 times.8°×Œ”›2b 3ee4b1d6e28321234e5889a7d0289af5h
+
+java:S1192C"TDefine a constant instead of duplicating this literal "Employee Not Found!" 3 times.8°×Œ”›2b d6e4523bcfb7c765519fdfbd6ea88c57h
+f	java:S106’"+Replace this use of System.out by a logger.8°×Œ”›2b bb1c3f2ea781263d3a2bb92b06a2061fh
+ƒ
+java:S1192C"HDefine a constant instead of duplicating this literal "message" 7 times.8°×Œ”›2b 9040ca9bfe0a4c38f81140904fb9db9dh
+{
+java:S4684h"@Replace this persistent entity with a simple POJO or DTO object.8°×Œ”›2b fa5473530e4d1a5a1e1eb53d2fedb10ch
+Š
+java:S1192Q"ODefine a constant instead of duplicating this literal "updateEmployee" 3 times.8°×Œ”›2b 98d95afdb8c1e1666458eada2a4347a5h
+w
+java:S1128"<Remove this unused import 'javax.servlet.RequestDispatcher'.8°×Œ”›2b 6ecf441b3c9838123f6ad90ab38e0f58h
+}
+java:S6813"BRemove this field injection and use constructor injection instead.8°×Œ”›2b 0132ec8cee01c5dd244e1a60fe6448a1h
+f	java:S106ƒ"+Replace this use of System.out by a logger.8°×Œ”›2b bb1c3f2ea781263d3a2bb92b06a2061fh
+{
+java:S4684,"@Replace this persistent entity with a simple POJO or DTO object.8°×Œ”›2b fa5473530e4d1a5a1e1eb53d2fedb10ch
+Œ
+java:S1128"QRemove this unused import 'org.springframework.web.bind.annotation.RequestParam'.8°×Œ”›2b 3b80d5c9c840440eb47c26354612dcbeh

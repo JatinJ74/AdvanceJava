@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html xmlns:th="http://www.thymeleaf.org">
+<head>
+<meta charset="ISO-8859-1">
+<title>Insert title here</title>
+<style type="text/css">
+.container {
+	text-align: center;
+	height: 600px;
+	line-height: 50px;
+	width: 100%;
+	position: relative;
+	border: 2px solid seagreen;
+	margin-top: 5%;
+}
+
+</style>
+<link rel="stylesheet"
+	href="https://cdn.jsdelivr.net/npm/bootstrap@4.4.1/dist/css/bootstrap.min.css"
+	integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh"
+	crossorigin="anonymous">
+</head>
+<body>
+	<div th:replace="~{commons/header::header}"></div>
+	<hr>
+	<div class="container">
+		<h1 >For Each Expression</h1>
+		<hr>
+		<div >
+			<table style="padding: 20px; height: 200px; width: 400px; border: solid black; position: absolute; left: 30%; top: 25%;" border="1">
+				<thead>
+					<tr>
+
+						<th>Index</th>
+						<th>Name</th>
+						<th>Age</th>
+						<th>RoleNo</th>
+					</tr>
+				</thead>
+				<tbody>
+					<tr th:each="student, studentStat:${studentList}">
+
+						<td th:text="${studentStat.count}"></td>
+						<td th:text="${student.getName()}"></td>
+						<td th:text="${student.getRoleNo()}"></td>
+						<td th:text="${student.getAge()}"></td>
+					</tr>
+				</tbody>
+			</table>
+		</div>
+	</div>
+
+	<div th:replace="~{commons/footer::footer}"></div>
+	<script
+		src="https://cdn.jsdelivr.net/npm/bootstrap@4.4.1/dist/js/bootstrap.bundle.min.js"></script>
+</body>
+</html>

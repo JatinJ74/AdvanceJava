@@ -1,0 +1,6 @@
+
+•,Web:MouseEventWithoutKeyboardEquivalentCheck7"?Add a 'onKeyPress|onKeyDown|onKeyUp' attribute to this <a> tag.b 2e33205e5e70f6e1b84db6d58ac2cf94h
+‘	Web:S68197"^Use <button> or <input> instead of the button role to ensure accessibility across all devices.b 2e33205e5e70f6e1b84db6d58ac2cf94h
+•,Web:MouseEventWithoutKeyboardEquivalentCheckV"?Add a 'onKeyPress|onKeyDown|onKeyUp' attribute to this <a> tag.b 4c20c25da0b00b4c58b9368b986bd1c5h
+‘	Web:S6819V"^Use <button> or <input> instead of the button role to ensure accessibility across all devices.b 4c20c25da0b00b4c58b9368b986bd1c5h
+gWeb:AvoidCommentedOutCodeChecki"Remove this commented out code.b 2d111574fa703b6b5f4603f7af4e282bh

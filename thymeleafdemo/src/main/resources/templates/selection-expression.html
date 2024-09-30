@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html xmlns:th="http://www.thymeleaf.org">
+<head>
+<meta charset="ISO-8859-1">
+<title>Insert title here</title>
+<link rel="stylesheet"
+	href="https://cdn.jsdelivr.net/npm/bootstrap@4.4.1/dist/css/bootstrap.min.css"
+	integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh"
+	crossorigin="anonymous">
+</head>
+<body>
+
+	<div th:replace=~{commons/header::header}></div>
+	<hr>
+	<h1>Selection Expression</h1>
+	<table border="1">
+		<tr>
+			<th>Name</th>
+			<th>Age</th>
+			<th>RoleNo</th>
+		</tr>
+		<tr th:Object=${student}>
+			<td th:text=*{name}></td>
+			<td th:text=*{age}></td>
+			<td th:text=*{roleNo}></td>
+		</tr>
+
+	</table>
+	<hr>
+	<div th:replace=~{commons/footer::footer}></div>
+	<script src="https://cdn.jsdelivr.net/npm/bootstrap@4.4.1/dist/js/bootstrap.bundle.min.js"></script>
+</body>
+</html>

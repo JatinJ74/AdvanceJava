@@ -1,0 +1,13 @@
+
+	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.b 6edb45d503e284493685fabe871db565h
+}
+java:S6813"BRemove this field injection and use constructor injection instead.8Ο―ςδ™2b 0132ec8cee01c5dd244e1a60fe6448a1h
+v	java:S125-"<This block of commented-out lines of code should be removed.8Ράάε™2b 0403b09f7606502aa8b72f6a262fb477h
+v	java:S125)"<This block of commented-out lines of code should be removed.8…£λε™2b e7fa1bbd83224a7a5427e141a51d01aah
+v	java:S1250"<This block of commented-out lines of code should be removed.8ρ–‹ζ™2b d65a73a32bda108d1b8a439340dab78bh
+j
+java:S1128"/Remove this unused import 'java.util.Optional'.8ρ–‹ζ™2b 36b2b47c45feb274daab2613f5282eabh
+v	java:S1259"<This block of commented-out lines of code should be removed.8Ά¤ζ™2b e7fa1bbd83224a7a5427e141a51d01aah
+v	java:S125&"<This block of commented-out lines of code should be removed.8κύ¨ζ™2b 0403b09f7606502aa8b72f6a262fb477h
+e	java:S106="+Replace this use of System.out by a logger.8κύ¨ζ™2b bb1c3f2ea781263d3a2bb92b06a2061fh
+v	java:S125>"<This block of commented-out lines of code should be removed.8κύ¨ζ™2b 9d9745793ea808834d7de26d55c88e2eh

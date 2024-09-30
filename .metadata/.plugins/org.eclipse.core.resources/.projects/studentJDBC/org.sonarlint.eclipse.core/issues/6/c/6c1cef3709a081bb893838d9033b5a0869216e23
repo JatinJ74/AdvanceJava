@@ -1,0 +1,8 @@
+
+v	java:S125"<This block of commented-out lines of code should be removed.8”ÔÿÙŠ2b e5d1e92ed1bcf01d246e1f632a265dd0h
+e	java:S106"+Replace this use of System.out by a logger.8İ°üØŠ2b bb1c3f2ea781263d3a2bb92b06a2061fh
+	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.b 4e0c32285d35ee632572a0facfc76710h
+Š
+java:S1128"ORemove this unused import 'com.gvacharya.student.studentJDBC.entities.Address'.8”ÔÿÙŠ2b 3e5d8eeb68b8cd09330743450a8ee838h
+Š
+java:S1128"ORemove this unused import 'com.gvacharya.student.studentJDBC.entities.Student'.8”ÔÿÙŠ2b 2a382771afc83e07b7e82b5cfed2748bh

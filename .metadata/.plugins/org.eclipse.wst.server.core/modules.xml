@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<modules>
+  <module moduleId="org.eclipse.jst.j2ee.server:springmvcdatahandling" serverId="Tomcat v9.0 Server at localhost"/>
+  <module moduleId="org.eclipse.jst.j2ee.server:CrudApp" serverId="Tomcat v9.0 Server at localhost"/>
+  <module moduleId="org.eclipse.jst.jee.server:MyWebProject" serverId="Tomcat v9.0 Server at localhost"/>
+  <module moduleId="org.eclipse.jst.j2ee.server:EcommerceApp" serverId="Tomcat v9.0 Server at localhost"/>
+  <module moduleId="org.eclipse.jst.jee.server:MyWebApp" serverId="Tomcat v9.0 Server at localhost"/>
+  <module moduleId="org.eclipse.jst.j2ee.server:demospringmvcdatahandling" serverId="Tomcat v9.0 Server at localhost"/>
+  <module moduleId="org.eclipse.jst.j2ee.server:springmvcdemo" serverId="Tomcat v9.0 Server at localhost"/>
+</modules>

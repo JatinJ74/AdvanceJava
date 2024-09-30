@@ -1,0 +1,28 @@
+
+i
+java:S1481>".Remove this unused "returnMsg" local variable.8òØâØŠ2b b81fb876ce4de631c76c8461029e0345h
+Š
+java:S2095F"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.8Ì™ÂØŠ2b 1455033b32d51c53b955781e9296d66eh
+	java:S112™"FDefine and throw a dedicated exception instead of using a generic one.8Éº²ÕŠ2b b0d4998a26f5b5742ad38c4af8817e32h
+r
+java:S6437œ"6Revoke and change this password, as it is compromised.8Éº²ÕŠ2b e49f443b22e0a54f8b596f5d14dd00eah
+m
+java:S1135f"2Complete the task associated to this TODO comment.8ĞÃ×Š2b 7070b9ee421ce52b0a94300bdc011420h
+Š
+java:S2095'"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.8Éº²ÕŠ2b 43c6930f2a1baf690741f692f104a4c1h
+Š
+java:S2095"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.8„ç™ÖŠ2b fb4ca922c56ffd5a560388439988d60fh
+q
+java:S1172]"6Remove these unused method parameters "student", "id".8Éº²ÕŠ2b cd73502828457d15655bbd7a63fb0bc8h
+c	java:S108a")Either remove or fill this block of code.8™¶ÆÚŠ2b f95b70fdc3088560732a5ac135644506h
+Š
+java:S2095u"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.8ĞÃ×Š2b dac187b5eec84de55d379656217a6cd5h
+Š
+java:S2095Q"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.8òØâØŠ2b 0e4353879261bb8058edb3cbaf08cc8bh
+Z
+java:S6905?"Don't use the query "SELECT *".8Ì™ÂØŠ2b 1b5dbfef7543a1324c3859a4283f6d59h
+	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.b b85ef4de2ffb5dc278cce2b949066246h
+‹
+java:S2095‹"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.8¹’úÙŠ2b 1455033b32d51c53b955781e9296d66eh
+Š
+java:S2095M"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.8òØâØŠ2b 83faea2a3918144a60d93eb37c304f38h

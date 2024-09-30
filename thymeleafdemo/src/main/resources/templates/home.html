@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en" xmlns:th="http://www.thymeleaf.org">
+<head>
+<meta charset="ISO-8859-1">
+<title>Insert title here</title>
+<style type="text/css">
+.container {
+	text-align: center;
+	height: 600px;
+	line-height: 50px;
+	width: 100%;
+	position: relative;
+	border: 2px solid seagreen;
+	margin-top: 5%;
+}
+</style>
+<link rel="stylesheet"
+	href="https://cdn.jsdelivr.net/npm/bootstrap@4.4.1/dist/css/bootstrap.min.css"
+	integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh"
+	crossorigin="anonymous">
+</head>
+<body>
+	<div th:replace=~{commons/header::header}></div>
+	<hr>
+	<div class="container">
+		<h1>Hello Thymeleaf</h1>
+
+		<h2>See all Demo</h2>
+		<a th:href=@{/link-expression}>LinkUrlExpression</a>
+	</div>
+
+	<div th:replace=~{commons/footer::footer}></div>
+	<script
+		src="https://cdn.jsdelivr.net/npm/bootstrap@4.4.1/dist/js/bootstrap.bundle.min.js"></script>
+</body>
+</html>

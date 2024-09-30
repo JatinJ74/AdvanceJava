@@ -1,0 +1,9 @@
+
+
+java:S1192"FDefine a constant instead of duplicating this literal "</h1>" 3 times.8äˆ“2b f77d6bc124bea36ad920ab810eee36e6h
+”
+java:S1989"YHandle the following exception that could be thrown by "parseInt": NumberFormatException.8äˆ“2b 1c4051b582415f8652c8c361a8980fc0h
+‹
+java:S1989"PHandle the following exception that could be thrown by "getWriter": IOException.8ØÊê’2b ed8bb92201fdd9d9fa23d3e70196b5e8h
+”
+java:S1989"YHandle the following exception that could be thrown by "parseInt": NumberFormatException.8äˆ“2b 1c4051b582415f8652c8c361a8980fc0h

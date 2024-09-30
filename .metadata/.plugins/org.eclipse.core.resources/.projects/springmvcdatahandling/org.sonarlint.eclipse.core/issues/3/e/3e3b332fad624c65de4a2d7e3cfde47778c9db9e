@@ -1,0 +1,8 @@
+
+{
+java:S4684"@Replace this persistent entity with a simple POJO or DTO object.8ωνΰι’2b cd73502828457d15655bbd7a63fb0bc8h
+}
+java:S6813"BRemove this field injection and use constructor injection instead.8Σεξµ“2b 0132ec8cee01c5dd244e1a60fe6448a1h
+
+java:S1128
+"SRemove this unused import 'org.springframework.web.bind.annotation.RequestMapping'.8Ζρ¶“2b fd209de4963ade899100123288589d80h

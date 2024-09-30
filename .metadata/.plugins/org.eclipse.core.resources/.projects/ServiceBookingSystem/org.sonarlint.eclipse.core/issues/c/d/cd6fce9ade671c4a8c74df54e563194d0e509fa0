@@ -1,0 +1,12 @@
+
+}
+java:S6813"BRemove this field injection and use constructor injection instead.8ιέ£ϊ—2b 0132ec8cee01c5dd244e1a60fe6448a1h
+a
+java:S1452"&Remove usage of generic wildcard type.8ιέ£ϊ—2b d1457b72c3fb323a2671125aef3eab5dh
+c
+java:S5411"(Use a primitive boolean expression here.8ιέ£ϊ—2b cd8cf3255da0a58e310394d6577fa0a6h
+c
+java:S5411#"(Use a primitive boolean expression here.8ιέ£ϊ—2b cd8cf3255da0a58e310394d6577fa0a6h
+”	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.8ιέ£ϊ—2b 2d0d178b0f33edddc31b24daa0b5cbbch
+a
+java:S1452""&Remove usage of generic wildcard type.8ιέ£ϊ—2b d1457b72c3fb323a2671125aef3eab5dh

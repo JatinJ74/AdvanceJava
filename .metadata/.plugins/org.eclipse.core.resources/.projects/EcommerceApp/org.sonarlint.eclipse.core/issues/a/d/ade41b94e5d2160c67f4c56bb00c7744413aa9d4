@@ -1,0 +1,23 @@
+
+s	Web:S5254
+"@Add "lang" and/or "xml:lang" attributes to this "<html>" elementb 166248a6129a1e4370d20adc2d4c23f3h
+qWeb:UnsupportedTagsInHtml5Check#"(Remove this deprecated "center" element.b 8d2087217220f9ecca1ebde6c049ba92h
+qWeb:UnsupportedTagsInHtml5Check-"(Remove this deprecated "center" element.b 8d2087217220f9ecca1ebde6c049ba92h
+\	Web:S1827>")Remove this deprecated "align" attribute.b 37c12707c0c13689aa059368d338867ah
+eWeb:ImgWithoutAltCheck>"%Add an "alt" attribute to this image.b 3a316ad81f8262d4ca596209e345dcfah
+b	Web:S1827C"/Remove this deprecated "cellspacing" attribute.b f01df7e3539af7d002a7471d596938e5h
+b	Web:S1827C"/Remove this deprecated "cellpadding" attribute.b f01df7e3539af7d002a7471d596938e5h
+\	Web:S1827C")Remove this deprecated "align" attribute.b f01df7e3539af7d002a7471d596938e5h
+\	Web:S1827_")Remove this deprecated "align" attribute.b c53305073558fe740d40dd231e15f7e5h
+^	Web:S1827_"+Remove this deprecated "bgcolor" attribute.b c53305073558fe740d40dd231e15f7e5h
+… Web:TableHeaderHasIdOrScopeCheckF";Add either an 'id' or a 'scope' attribute to this <th> tag.b ff2f1b5d3e7f90e23fa55ffe955e7e3bh
+… Web:TableHeaderHasIdOrScopeCheckG";Add either an 'id' or a 'scope' attribute to this <th> tag.b ff2f1b5d3e7f90e23fa55ffe955e7e3bh
+… Web:TableHeaderHasIdOrScopeCheckK";Add either an 'id' or a 'scope' attribute to this <th> tag.b ff2f1b5d3e7f90e23fa55ffe955e7e3bh
+… Web:TableHeaderHasIdOrScopeCheckL";Add either an 'id' or a 'scope' attribute to this <th> tag.b ff2f1b5d3e7f90e23fa55ffe955e7e3bh
+… Web:TableHeaderHasIdOrScopeCheckP";Add either an 'id' or a 'scope' attribute to this <th> tag.b ff2f1b5d3e7f90e23fa55ffe955e7e3bh
+… Web:TableHeaderHasIdOrScopeCheckQ";Add either an 'id' or a 'scope' attribute to this <th> tag.b ff2f1b5d3e7f90e23fa55ffe955e7e3bh
+… Web:TableHeaderHasIdOrScopeCheckU";Add either an 'id' or a 'scope' attribute to this <th> tag.b ff2f1b5d3e7f90e23fa55ffe955e7e3bh
+… Web:TableHeaderHasIdOrScopeCheckV";Add either an 'id' or a 'scope' attribute to this <th> tag.b ff2f1b5d3e7f90e23fa55ffe955e7e3bh
+… Web:TableHeaderHasIdOrScopeCheckZ";Add either an 'id' or a 'scope' attribute to this <th> tag.b ff2f1b5d3e7f90e23fa55ffe955e7e3bh
+… Web:TableHeaderHasIdOrScopeCheck[";Add either an 'id' or a 'scope' attribute to this <th> tag.b ff2f1b5d3e7f90e23fa55ffe955e7e3bh
+… Web:TableHeaderHasIdOrScopeCheck_";Add either an 'id' or a 'scope' attribute to this <th> tag.b c53305073558fe740d40dd231e15f7e5h

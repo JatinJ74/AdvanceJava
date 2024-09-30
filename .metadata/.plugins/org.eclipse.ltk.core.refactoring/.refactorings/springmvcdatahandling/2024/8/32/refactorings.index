@@ -1,0 +1,10 @@
+1723038231147	Delete element
+1723038255366	Delete element
+1723040721170	Rename resource 'register.jsp'
+1723040772388	Rename resource 'admit.jsp'
+1723198975601	Rename package 'com.gvacharya.datahandling.user'
+1723199337429	Rename type 'StudentDao'
+1723199476077	Delete element
+1723200614966	Rename resource 'register.jsp'
+1723202666894	Move 'hibernate.cfg.xml' to 'main'
+1723202683337	Move 'hibernate.cfg.xml' to 'java'

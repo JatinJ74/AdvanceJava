@@ -1,0 +1,31 @@
+package com.gvacharya.crudapp.dao;
+
+import org.hibernate.Session;
+import org.hibernate.SessionFactory;
+import org.hibernate.Transaction;
+import org.hibernate.cfg.Configuration;
+import org.springframework.stereotype.Repository;
+
+import com.gvacharya.crudapp.entities.Employee;
+
+@Repository
+public class EmpDaoImpl implements EmpDao{
+
+	@Override
+	public String addEmployee(Employee employee) {
+		
+		try(Session session = getConnection().openSession()){
+			Transaction transaction = session.getTransaction();
+			
+			transaction.begin();
+			session.save(employee);
+			transaction.commit();
+		}
+		
+		return "Employee Added Successfully";
+	}
+	
+	public SessionFactory getConnection() {
+		return new Configuration().configure("hibernate.cfg.xml").buildSessionFactory();
+	}
+}

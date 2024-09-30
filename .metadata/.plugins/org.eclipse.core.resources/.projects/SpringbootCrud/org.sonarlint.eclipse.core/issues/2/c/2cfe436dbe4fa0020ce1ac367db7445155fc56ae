@@ -1,0 +1,4 @@
+
+ç	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.b 91f34fed428d831f0c5584d5e19afb6eh
+ê
+java:S1128"URemove this unused import 'org.hibernate.engine.jdbc.env.spi.IdentifierCaseStrategy'.8àÆÇÂô2b 48eaf15d7535bbcb24c57433a191fe0bh

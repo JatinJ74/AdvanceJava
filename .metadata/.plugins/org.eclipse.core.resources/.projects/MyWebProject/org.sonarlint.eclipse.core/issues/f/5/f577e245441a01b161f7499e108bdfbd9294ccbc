@@ -1,0 +1,9 @@
+
+y	java:S112"FDefine and throw a dedicated exception instead of using a generic one.b b0d4998a26f5b5742ad38c4af8817e32h
+ç	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.b 14c4b06b824ec593239362517f538b29h
+ç	java:S115	"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.b 5f4dcc3b5aa765d61d8327deb882cf99h
+ç	java:S115
+"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.b 572d4e421e5e6b9bc11d815e8a027112h
+j
+java:S6437"6Revoke and change this password, as it is compromised.b 5f4dcc3b5aa765d61d8327deb882cf99h
+o	java:S125"<This block of commented-out lines of code should be removed.b 4735fd6722ce138ba562ccf4262e8175h

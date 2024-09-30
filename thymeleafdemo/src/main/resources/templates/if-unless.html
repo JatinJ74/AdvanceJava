@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html xlmns:th="www.thymeleaf.org">
+<head>
+<meta charset="ISO-8859-1">
+<title>Insert title here</title>
+<style type="text/css">
+.container {
+	text-align: center;
+	height: 600px;
+	line-height: 50px;
+	width: 100%;
+	position: relative;
+	margin-top: 5%;
+	border: 2px solid seagreen;
+	
+}
+</style>
+<link rel="stylesheet"
+	href="https://cdn.jsdelivr.net/npm/bootstrap@4.4.1/dist/css/bootstrap.min.css"
+	integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh"
+	crossorigin="anonymous">
+</head>
+<body>
+	<div th:replace=~{/commons/header::header}></div>
+		<div class="container">
+			<h1>If-Unlesss Expression</h1>
+			<hr>
+			<div>
+				<table style="padding: 20px; height: 200px; width: 600px; border: solid black; position: absolute; left: 22%; top: 25%;" border="1">
+					<thead>
+						<tr>
+							<th>Name</th>
+							<th>Email</th>
+							<th>View</th>
+							<th>Actions</th>
+						</tr>
+					</thead>
+					<tbody>
+						<tr th:each="user:${userList}">
+							<td th:text="${user.getName()}"></td>
+							<td th:text="${user.getEmail()}"></td>
+							<td th:text="${user.getRole()}"></td>
+							<td>
+								<a th:href="@{/update}" th:if="${user.getRole().toString() == 'ADMIN'}">Update</a>
+								<a th:href="@{/delete}" th:if="${user.getRole().toString() == 'ADMIN'}">Delete</a>
+								<a th:href="@{/view}" th:unless="${user.getRole().toString() == 'ADMIN'}">View</a>
+							</td>
+							
+						</tr>
+					</tbody>
+				</table>
+			</div>
+		</div>
+	
+	<div th:replace=~{/commons/footer::footer}></div>
+	<script
+		src="https://cdn.jsdelivr.net/npm/bootstrap@4.4.1/dist/js/bootstrap.bundle.min.js"></script>
+</body>
+</html>

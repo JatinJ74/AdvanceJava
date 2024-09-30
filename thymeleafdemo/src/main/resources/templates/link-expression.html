@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html xmlns:th="http://www.thymeleaf.org">
+<head>
+<meta charset="ISO-8859-1">
+<title>Insert title here</title>
+<style type="text/css">
+.centered {
+	text-align: center;
+	height: 600px;
+	line-height: 50px;
+	width: 100%;
+	position: relative;
+	border: 2px solid seagreen;
+	margin-top: 5%;
+}
+
+.listContainer{
+	text-align: left;
+	height: 75%;
+	width: 50%;
+	position: absolute;
+	left: 25%;
+	right: 25%;
+	
+	border: 1px dashed seagreen;
+	font-size: 15px;
+	
+}
+
+</style>
+<link rel="stylesheet"
+	href="https://cdn.jsdelivr.net/npm/bootstrap@4.4.1/dist/css/bootstrap.min.css"
+	integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh"
+	crossorigin="anonymous">
+</head>
+<body>
+	<div th:replace=~{commons/header::header}></div>
+	<hr>
+	<div class="centered">
+		<h1>Link URL Expression</h1>
+		<hr>
+		<ol class="listContainer">
+			<li>
+				Go To Variable Expression Demo -
+				<a th:href=@{/variable-expression}>VariableExpression</a>
+			</li>
+			<li>
+				Go To Selection Expression Demo -
+				<a th:href=@{/selection-expression}>SelectionExpression</a>
+			</li>
+			<li>
+				Go To Link URL Expression Demo -
+				<a th:href=@{/link-expression}>LinkURLExpression</a>
+			</li>
+			<li>
+				Go To Each Expression Demo -
+				<a th:href=@{/foreach-expression}>ForeEachExpression</a>
+			</li>
+			<li>
+				Go To If-Unless Expression Demo -
+				<a th:href=@{/if-unless}>If-Unless Expression</a>
+			</li>
+			<li></li>
+		</ol>
+
+	</div>
+	<div th:replace=~{commons/footer::footer}></div>
+	<script
+		src="https://cdn.jsdelivr.net/npm/bootstrap@4.4.1/dist/js/bootstrap.bundle.min.js"></script>
+</body>
+</html>
