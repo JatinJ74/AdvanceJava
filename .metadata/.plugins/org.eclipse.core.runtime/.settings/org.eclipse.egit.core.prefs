@@ -1,5 +1,5 @@
-GitRepositoriesView.GitDirectories=D\:\\Advance Java\\Expense-Tracker\\.git;D\:\\Weather-App-Springboot-thymeleaf\\.git;D\:\\Advance Java\\QuickCart\\.git;D\:\\Advance Java\\Weather-App\\.git;C\:\\Users\\jaisw\\git\\repository\\.git;D\:\\Advance Java\\shopping-cart-spring-boot\\.git;
-GitRepositoriesView.GitDirectories.relative=Expense-Tracker\\.git;D\:\\Weather-App-Springboot-thymeleaf\\.git;QuickCart\\.git;Weather-App\\.git;C\:\\Users\\jaisw\\git\\repository\\.git;shopping-cart-spring-boot\\.git;
+GitRepositoriesView.GitDirectories=D\:\\AdvanceJava\\.git;D\:\\AdvanceJava\\Expense-Tracker\\.git;D\:\\AdvanceJava\\shopping-cart-spring-boot\\.git;D\:\\Weather-App-Springboot-thymeleaf\\.git;D\:\\AdvanceJava\\QuickCart\\.git;C\:\\Users\\jaisw\\git\\repository\\.git;D\:\\AdvanceJava\\Weather-App\\.git;
+GitRepositoriesView.GitDirectories.relative=.git;Expense-Tracker\\.git;shopping-cart-spring-boot\\.git;D\:\\Weather-App-Springboot-thymeleaf\\.git;QuickCart\\.git;C\:\\Users\\jaisw\\git\\repository\\.git;Weather-App\\.git;
 RepositoryGroups.uuids=
 core_autoIgnoreDerivedResources=false
 eclipse.preferences.version=1

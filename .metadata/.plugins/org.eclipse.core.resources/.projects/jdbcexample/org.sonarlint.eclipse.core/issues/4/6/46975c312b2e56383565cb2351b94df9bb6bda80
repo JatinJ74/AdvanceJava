@@ -1,14 +1,14 @@
 
-e	java:S106"+Replace this use of System.out by a logger.8ªÜ«≥ä2b bb1c3f2ea781263d3a2bb92b06a2061fh
-e	java:S106"+Replace this use of System.out by a logger.8ªÜ«≥ä2b bb1c3f2ea781263d3a2bb92b06a2061fh
-ä
-java:S2095"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.8ªÜ«≥ä2b 711c46ccd3bf68fbd1f295b7cb87557bh
-e	java:S106"+Replace this use of System.out by a logger.8ªÜ«≥ä2b bb1c3f2ea781263d3a2bb92b06a2061fh
-e	java:S106"+Replace this use of System.out by a logger.8ªÜ«≥ä2b bb1c3f2ea781263d3a2bb92b06a2061fh
-q
-java:S6437"6Revoke and change this password, as it is compromised.8ªÜ«≥ä2b e49f443b22e0a54f8b596f5d14dd00eah
 É
 java:S2095"HUse try-with-resources or close this "Connection" in a "finally" clause.8ªÜ«≥ä2b 058fdfb7acf32c47ded13c048750f4ddh
+q
+java:S6437"6Revoke and change this password, as it is compromised.8ªÜ«≥ä2b e49f443b22e0a54f8b596f5d14dd00eah
+e	java:S106"+Replace this use of System.out by a logger.8ªÜ«≥ä2b bb1c3f2ea781263d3a2bb92b06a2061fh
+e	java:S106"+Replace this use of System.out by a logger.8ªÜ«≥ä2b bb1c3f2ea781263d3a2bb92b06a2061fh
+e	java:S106"+Replace this use of System.out by a logger.8ªÜ«≥ä2b bb1c3f2ea781263d3a2bb92b06a2061fh
+e	java:S106"+Replace this use of System.out by a logger.8ªÜ«≥ä2b bb1c3f2ea781263d3a2bb92b06a2061fh
 Z
 java:S6905"Don't use the query "SELECT *".8ªÜ«≥ä2b 154b44d01cb673806ca0d58fd8a7f697h
 ç	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.b a8eb3f3658f292202c85049aa87f254ch
+ä
+java:S2095"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.8ªÜ«≥ä2b 711c46ccd3bf68fbd1f295b7cb87557bh
